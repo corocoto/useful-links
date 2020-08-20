@@ -27,8 +27,10 @@
 
 ## Design
 
-### Image
-* [removebg](https://www.remove.bg) - remove background from loaded image
+### Image & Logo
+* [removebg](https://www.remove.bg) - remove background from loaded image;
+* [ICONFINDER](https://www.iconfinder.com/) - market place for vector icons in SVG, PNG, CSH and AI format;
+* [icons8](https://icons8.com/) - gallery where you can download design stuff for free (such as icons, photos, UX illustrations, and music for your videos);
 
 ### Video
 * [Pexels](https://www.pexels.com/videos/) - free stock videos;
@@ -37,3 +39,11 @@
 * [ColorDesigner](https://colordesigner.io/) - simple color palette generator;
 
 ## Blogs and Journals
+* [Habr](https://habr.com/) - journal where you can read articles on any themes (but most of them about techologies, design, programming and etc.);
+* [Medium](https://medium.com/) - journal where you can read articles on any themes (not only about techologies, design, programming and etc.);
+* [CSS-LIVE](https://css-live.ru/) - site where you can read articles about Frontend subject matter;
+* [aligator.io](https://alligator.io/) - site where you can read articles about web development;
+* [Web Dev Resources](https://webdevresources.info/) - blog that collect many useful links for web dev and design;
+
+## Licenses
+* [TLDRLegal](https://tldrlegal.com/) - short, but clear information about each license;
