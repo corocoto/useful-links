@@ -10,6 +10,10 @@
 
 ### JavaScript
 * [JavaScript.info](https://javascript.info/) - online book about JavaScript and related technologies;
+* [https://github.com/ziishaned/learn-regex/blob/master/README.md] - article for learning RegExp.
+
+### PWA
+* [App Manifest Generator](https://app-manifest.firebaseapp.com/) - manifest generator for your Progressive Web Application;
 
 ### Web technology guides
 * [devhints.io](https://devhints.io/) - collection of web development cheatsheets;
@@ -18,6 +22,9 @@
 
 ### Browsers support
 * [Can I use...](https://caniuse.com/) - displays browsers table with information about support selected technology;
+
+### Github
+* [AllGithubEmojis](https://jzeferino.github.io/AllGithubEmojis/) - gallery with Github emojis and it naming.
 
 ### Others
 * [Shields.io](https://shields.io/) - generates informational badges for GitHub, Travis CI, Jenkins, WordPress and many more services;
@@ -35,8 +42,9 @@
 ### Video
 * [Pexels](https://www.pexels.com/videos/) - free stock videos;
 
-### Generators
+### Palette
 * [ColorDesigner](https://colordesigner.io/) - simple color palette generator;
+* [Coolors](https://coolors.co/) - another palette generator;
 
 ## Blogs and Journals
 * [Habr](https://habr.com/) - journal where you can read articles on any themes (but most of them about techologies, design, programming and etc.);
