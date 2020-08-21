@@ -25,7 +25,7 @@
 * [Official documentation](https://redux.js.org/)
 
 ### Redux-Saga
-* [Officail documentation](https://redux-saga.js.org/)
+* [Official documentation](https://redux-saga.js.org/)
 
 ### Testing
 * [Jest official documentation](https://jestjs.io)
