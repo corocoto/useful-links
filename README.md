@@ -5,15 +5,34 @@
 
 ## Web Deveopment
 
+### Git
+* [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) - article where describes starter settings for git step by step.
+
 ### CSS
 * [Animista](https://animista.net/) - place where you can play with a collection of ready to use CSS animations, tweak them and download it;
 
 ### JavaScript
 * [JavaScript.info](https://javascript.info/) - online book about JavaScript and related technologies;
-* [https://github.com/ziishaned/learn-regex/blob/master/README.md] - article for learning RegExp.
+* [Learn RegEx The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/README.md) - article for learning RegExp.
 
 ### PWA
 * [App Manifest Generator](https://app-manifest.firebaseapp.com/) - manifest generator for your Progressive Web Application;
+
+### React
+* [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
+
+### Redux
+* [Official documentation](https://redux.js.org/)
+
+### Redux-Saga
+* [Officail documentation](https://redux-saga.js.org/)
+
+### Testing
+* [Jest official documentation](https://jestjs.io)
+* [Enzyme official documentation](https://enzymejs.github.io/enzyme/)
+
+### Firebase
+* [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
 
 ### Web technology guides
 * [devhints.io](https://devhints.io/) - collection of web development cheatsheets;
@@ -55,3 +74,9 @@
 
 ## Licenses
 * [TLDRLegal](https://tldrlegal.com/) - short, but clear information about each license;
+
+## Platforms for learning and upgrade progamming skills
+* [HTML Academy](https://htmlacademy.ru/) - interactive online courses about web dev and everything connected with it;
+* [Codecademy](https://www.codecademy.com/) - interactive platform for learning programming;
+* [freeCodeCamp](https://www.freecodecamp.org/) - another pretty nice platform for upgrading your skills or learning something new in programming;
+* [Pluralsight](https://www.pluralsight.com/) - the technology skills platform that collect many online courses about development;
