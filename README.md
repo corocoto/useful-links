@@ -13,26 +13,33 @@
 
 ### JavaScript
 * [JavaScript.info](https://javascript.info/) - online book about JavaScript and related technologies;
-* [Learn RegEx The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/README.md) - article for learning RegExp.
+* [Learn RegEx The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/README.md) - article for learning RegExp;
+* [JavaScript Event KeyCodes](https://keycode.info/) - display info about pressed key;
 
-### PWA
-* [App Manifest Generator](https://app-manifest.firebaseapp.com/) - manifest generator for your Progressive Web Application;
+* #### PWA
+  * [App Manifest Generator](https://app-manifest.firebaseapp.com/) - manifest generator for your Progressive Web Application;
 
-### React
-* [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
+* ### React
+  * [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
 
-### Redux
-* [Official documentation](https://redux.js.org/)
+* ### Redux
+  * [Official documentation](https://redux.js.org/)
+  * [Async Actions](https://redux.js.org/advanced/async-actions)
+  * [Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns/)
+  * [Middleware](https://redux.js.org/advanced/middleware/)
 
-### Redux-Saga
-* [Official documentation](https://redux-saga.js.org/)
+* ### Redux-Saga
+  * [Official documentation](https://redux-saga.js.org/)
 
-### Testing
-* [Jest official documentation](https://jestjs.io)
-* [Enzyme official documentation](https://enzymejs.github.io/enzyme/)
+* ### Testing
+  * [Jest official documentation](https://jestjs.io)
+  * [Enzyme official documentation](https://enzymejs.github.io/enzyme/)
 
 ### Firebase
 * [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
+
+### Benchmarking
+* [JSBEN.CH](https://jsben.ch/) - online JavaScript benchmark tool / playground;
 
 ### Web technology guides
 * [devhints.io](https://devhints.io/) - collection of web development cheatsheets;
@@ -48,8 +55,8 @@
 ### Others
 * [Shields.io](https://shields.io/) - generates informational badges for GitHub, Travis CI, Jenkins, WordPress and many more services;
 * [CodeMyUI](https://codemyui.com/) - handpicked collection of Web Design & UI Inspiration with code snippets;
-* [ascii.today](https://ascii.today/) - beautiful ASCII titles generator
-
+* [ascii.today](https://ascii.today/) - beautiful ASCII titles generator;
+* [browsersl.ist](https://browsersl.ist/) - a page to display compatible browsers from a browserslist string;
 
 ## Design
 
@@ -57,6 +64,7 @@
 * [removebg](https://www.remove.bg) - remove background from loaded image;
 * [ICONFINDER](https://www.iconfinder.com/) - market place for vector icons in SVG, PNG, CSH and AI format;
 * [icons8](https://icons8.com/) - gallery where you can download design stuff for free (such as icons, photos, UX illustrations, and music for your videos);
+* [favicon.io](https://favicon.io/) - favicon generator;
 
 ### Video
 * [Pexels](https://www.pexels.com/videos/) - free stock videos;
@@ -71,6 +79,8 @@
 * [CSS-LIVE](https://css-live.ru/) - site where you can read articles about Frontend subject matter;
 * [aligator.io](https://alligator.io/) - site where you can read articles about web development;
 * [Web Dev Resources](https://webdevresources.info/) - blog that collect many useful links for web dev and design;
+* [81 of the Best Places to Learn to Code For Free](https://learntocodewith.me/posts/code-for-free/) - blog where describes many patformsm courses and etc. for learning and upgrading your programming skills;
+* [Pony Foo](https://ponyfoo.com/) - journal about EcmaScript ecosystem and everything connected with it;
 
 ## Licenses
 * [TLDRLegal](https://tldrlegal.com/) - short, but clear information about each license;
