@@ -52,6 +52,9 @@
 ### Github
 * [AllGithubEmojis](https://jzeferino.github.io/AllGithubEmojis/) - gallery with Github emojis and it naming.
 
+### Website/Web app testing
+* [Am I Responsive?](http://ami.responsivedesign.is/) - website that displays you how yourwebsite/web app look on many devices.
+
 ### Others
 * [Shields.io](https://shields.io/) - generates informational badges for GitHub, Travis CI, Jenkins, WordPress and many more services;
 * [CodeMyUI](https://codemyui.com/) - handpicked collection of Web Design & UI Inspiration with code snippets;
