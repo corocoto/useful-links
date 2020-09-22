@@ -66,8 +66,11 @@
 ### Image & Logo
 * [removebg](https://www.remove.bg) - remove background from loaded image;
 * [ICONFINDER](https://www.iconfinder.com/) - market place for vector icons in SVG, PNG, CSH and AI format;
-* [icons8](https://icons8.com/) - gallery where you can download design stuff for free (such as icons, photos, UX illustrations, and music for your videos);
+* [icons8](https://icons8.com/) - gallery where you can to download design stuff for free (such as icons, photos, UX illustrations, and music for your videos);
 * [favicon.io](https://favicon.io/) - favicon generator;
+* [uxwing](https://uxwing.com/) - gallery where you can to download svg icons;
+* [svgrepo](https://www.svgrepo.com/) - gallery where you can to download svg icons;
+* [iconscout](https://iconscout.com/) - gallery where you can to download icons, illustrations and stock photos; 
 
 ### Video
 * [Pexels](https://www.pexels.com/videos/) - free stock videos;
