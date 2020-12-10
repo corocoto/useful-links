@@ -35,6 +35,9 @@
   * [Jest official documentation](https://jestjs.io)
   * [Enzyme official documentation](https://enzymejs.github.io/enzyme/)
 
+### HTTP
+ * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) - detailed information about response status codes;
+
 ### Firebase
 * [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
 
