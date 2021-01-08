@@ -37,6 +37,8 @@
 
 ### HTTP
  * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) - detailed information about response status codes;
+ * HTTP Caching:
+  * [Prevent unnecessary network requests with the HTTP Cache] - article about HTTP caching by using `Cache-Control`, `ETag` and `Last-Modified` headers.
 
 ### Firebase
 * [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
