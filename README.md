@@ -38,7 +38,8 @@
 ### HTTP
  * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) - detailed information about response status codes;
  * HTTP Caching:
-  * [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/#invalidating_and_updating_cached_responses) - article about HTTP caching by using `Cache-Control`, `ETag` and `Last-Modified` headers.
+  * [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/#invalidating_and_updating_cached_responses) - article about HTTP caching by using `Cache-Control`, `ETag` and `Last-Modified` headers;
+  * [Configuring HTTP caching behavior](https://web.dev/codelab-http-cache/) - article and test environment, where you can practice and learn how configure your project for HTTP caching.
 
 ### Firebase
 * [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
