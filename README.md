@@ -10,6 +10,7 @@
 
 ### CSS
 * [Animista](https://animista.net/) - place where you can play with a collection of ready to use CSS animations, tweak them and download it;
+* [Everything You Need to Know About !important CSS Declarations](https://www.impressivewebs.com/everything-you-need-to-know-about-the-important-css-declaration/#post-475:~:text=Drawbacks,-to) - article about `!important` keyword.
 
 ### JavaScript
 * [JavaScript.info](https://javascript.info/) - online book about JavaScript and related technologies;
@@ -38,8 +39,8 @@
 ### HTTP
  * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) - detailed information about response status codes;
  * HTTP Caching:
-  * [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/#invalidating_and_updating_cached_responses) - article about HTTP caching by using `Cache-Control`, `ETag` and `Last-Modified` headers;
-  * [Configuring HTTP caching behavior](https://web.dev/codelab-http-cache/) - article and test environment, where you can practice and learn how configure your project for HTTP caching.
+   * [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/#invalidating_and_updating_cached_responses) - article about HTTP caching by using `Cache-Control`, `ETag` and `Last-Modified` headers;
+   * [Configuring HTTP caching behavior](https://web.dev/codelab-http-cache/) - article and test environment, where you can practice and learn how configure your project for HTTP caching.
 
 ### Firebase
 * [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
