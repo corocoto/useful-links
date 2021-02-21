@@ -62,6 +62,10 @@
 ### Website/Web app testing
 * [Am I Responsive?](http://ami.responsivedesign.is/) - website that displays you how yourwebsite/web app look on many devices.
 
+### DevTools
+
+* [Useful DevTools Tips And Shortcuts (Chrome, Firefox, Edge)](https://www.smashingmagazine.com/2021/02/useful-chrome-firefox-devtools-tips-shortcuts/) - article about many various devtools features.
+
 ### Others
 * [Shields.io](https://shields.io/) - generates informational badges for GitHub, Travis CI, Jenkins, WordPress and many more services;
 * [CodeMyUI](https://codemyui.com/) - handpicked collection of Web Design & UI Inspiration with code snippets;
